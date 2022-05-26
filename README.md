@@ -1,6 +1,6 @@
 # Login One Blue
 
->Página de cadastro e Login Usando React.
+>Página de cadastro e Login Usando React para o processo seletivo de front end da One BLue
 
 ## Recursos
 
